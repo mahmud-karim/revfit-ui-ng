@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "revfit-ui-ng"
+    }
+  },
+  "defaultProject": "revfit-ui-ng",
+  "cli": {
+    "analytics": "3e04078e-517f-4f04-a555-77d920d445cd"
+  }
 }
