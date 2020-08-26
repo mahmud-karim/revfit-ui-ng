@@ -1,0 +1,9 @@
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #FF9800;
+}
+
+.navbar-brand {
+    color: white;
+}
